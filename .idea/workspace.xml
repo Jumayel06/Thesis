@@ -1,0 +1,1354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac8415c5-3826-4f30-a385-3924f63e7707" name="Default" comment="" />
+    <ignored path="ThesisBeta0.2.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ThesisBeta2.0-master$main.coverage" NAME="main Coverage Results" MODIFIED="1440234120868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ThesisBeta2.0-master$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1440099409747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test" />
+    <SUITE FILE_PATH="coverage/ThesisBeta0.2$main.coverage" NAME="main Coverage Results" MODIFIED="1439623947681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ThesisBeta2.0-master$structure.coverage" NAME="structure Coverage Results" MODIFIED="1440009566561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db_process" />
+    <SUITE FILE_PATH="coverage/ThesisBeta2.0-master$CorpusProcess.coverage" NAME="CorpusProcess Coverage Results" MODIFIED="1440009726539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/corpus_process" />
+    <SUITE FILE_PATH="coverage/ThesisBeta0.2$CorpusProcess.coverage" NAME="CorpusProcess Coverage Results" MODIFIED="1439544439865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/corpus_process" />
+    <SUITE FILE_PATH="coverage/ThesisBeta0.2$structure.coverage" NAME="structure Coverage Results" MODIFIED="1439623514806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db_process" />
+    <SUITE FILE_PATH="coverage/ThesisBeta2.0-master$interaction.coverage" NAME="interaction Coverage Results" MODIFIED="1440009057026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db_process" />
+    <SUITE FILE_PATH="coverage/ThesisBeta2.0-master$uma.coverage" NAME="uma Coverage Results" MODIFIED="1440074454441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ThesisBeta0.2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="structure.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/db_process/structure.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.31153184" vertical-offset="414" max-vertical-offset="1020">
+              <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="interaction.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db_process/interaction.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1394" max-vertical-offset="1972">
+              <caret line="171" column="0" selection-start-line="171" selection-start-column="0" selection-end-line="171" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#95#0" expanded="true" />
+                <element signature="e#511#733#0" expanded="false" />
+                <element signature="e#795#1174#0" expanded="false" />
+                <element signature="e#1258#2026#0" expanded="false" />
+                <element signature="e#2077#2704#0" expanded="false" />
+                <element signature="e#4356#4670#0" expanded="false" />
+                <element signature="e#4708#5201#0" expanded="false" />
+                <element signature="e#5241#5864#0" expanded="false" />
+                <element signature="e#6338#6610#0" expanded="false" />
+                <element signature="e#6657#7130#0" expanded="false" />
+                <element signature="e#7176#7518#0" expanded="false" />
+                <element signature="e#7564#7924#0" expanded="false" />
+                <element signature="e#7973#8312#0" expanded="false" />
+                <element signature="e#8361#8817#0" expanded="false" />
+                <element signature="e#8880#9184#0" expanded="false" />
+                <element signature="e#9251#9575#0" expanded="false" />
+                <element signature="e#9628#9863#0" expanded="false" />
+                <element signature="e#9925#10372#0" expanded="false" />
+                <element signature="e#10430#11051#0" expanded="false" />
+                <element signature="e#11107#11500#0" expanded="false" />
+                <element signature="e#11546#11744#0" expanded="false" />
+                <element signature="e#11793#11948#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CorpusProcess.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/corpus_process/CorpusProcess.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1717" max-vertical-offset="1836">
+              <caret line="199" column="40" selection-start-line="199" selection-start-column="40" selection-end-line="199" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+                <element signature="e#218#964#0" expanded="false" />
+                <element signature="e#1475#1994#0" expanded="false" />
+                <element signature="e#2068#2484#0" expanded="false" />
+                <element signature="e#3633#3765#0" expanded="false" />
+                <element signature="e#3815#4091#0" expanded="false" />
+                <element signature="e#4138#5053#0" expanded="false" />
+                <element signature="e#5090#5209#0" expanded="false" />
+                <element signature="e#6683#6809#0" expanded="false" />
+                <element signature="e#6846#6987#0" expanded="false" />
+                <element signature="e#7027#7601#0" expanded="false" />
+                <element signature="e#7652#8950#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="595" max-vertical-offset="986">
+              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#47#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/corpus_process/__init__.py" />
+        <option value="/Plain text Fragment (DocumentProcess.py:123).txt" />
+        <option value="$PROJECT_DIR$/db_process/__init__.py" />
+        <option value="$PROJECT_DIR$/uma.py" />
+        <option value="$PROJECT_DIR$/../test/structure_db.py" />
+        <option value="$PROJECT_DIR$/../test/main.py" />
+        <option value="/Plain text Fragment (interaction.py:6403).txt" />
+        <option value="/Plain text Fragment (interaction.py:3369).txt" />
+        <option value="$PROJECT_DIR$/db_process/structure.py" />
+        <option value="$PROJECT_DIR$/db_process/interaction.py" />
+        <option value="$PROJECT_DIR$/corpus_process/DocumentProcess.py" />
+        <option value="$PROJECT_DIR$/corpus_process/CorpusProcess.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="25" />
+    <option name="width" value="1366" />
+    <option name="height" value="743" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThesisBeta2.0-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThesisBeta2.0-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThesisBeta2.0-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThesisBeta2.0-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThesisBeta2.0-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="corpus_process" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/../ThesisBeta0.1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration default="false" name="structure" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db_process" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ThesisBeta0.2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db_process/structure.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ThesisBeta0.2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="CorpusProcess" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/corpus_process" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ThesisBeta0.2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/corpus_process/CorpusProcess.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="uma" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ThesisBeta0.2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/uma.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ThesisBeta0.2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ThesisBeta0.2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ThesisBeta0.2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ThesisBeta0.2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ThesisBeta0.2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ThesisBeta0.2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Python.structure" />
+      <item index="1" class="java.lang.String" itemvalue="Python.main" />
+      <item index="2" class="java.lang.String" itemvalue="Python.CorpusProcess" />
+      <item index="3" class="java.lang.String" itemvalue="Python.uma" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.main" />
+        <item index="1" class="java.lang.String" itemvalue="Python.uma" />
+        <item index="2" class="java.lang.String" itemvalue="Python.CorpusProcess" />
+        <item index="3" class="java.lang.String" itemvalue="Python.structure" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac8415c5-3826-4f30-a385-3924f63e7707" name="Default" comment="" />
+      <created>1439359097986</created>
+      <option name="number" value="Default" />
+      <updated>1439359097986</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Fixed insert_weightj function">
+      <created>1439911081646</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1439911081646</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1366" height="743" extended-state="1" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2777778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33790737" sideWeight="0.50303954" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32933104" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32933104" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37285224" sideWeight="0.4969605" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3281787" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33790737" sideWeight="0.50303954" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.38250428" sideWeight="0.4969605" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15349545" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32933104" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="Fixed insert_weightj function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed insert_weightj function" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/db_process/structure.py</url>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="28" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/db_process/interaction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1394" max-vertical-offset="1972">
+          <caret line="171" column="0" selection-start-line="171" selection-start-column="0" selection-end-line="171" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#95#0" expanded="true" />
+            <element signature="e#511#733#0" expanded="false" />
+            <element signature="e#795#1174#0" expanded="false" />
+            <element signature="e#1258#2026#0" expanded="false" />
+            <element signature="e#2077#2704#0" expanded="false" />
+            <element signature="e#4356#4670#0" expanded="false" />
+            <element signature="e#4708#5201#0" expanded="false" />
+            <element signature="e#5241#5864#0" expanded="false" />
+            <element signature="e#6338#6610#0" expanded="false" />
+            <element signature="e#6657#7130#0" expanded="false" />
+            <element signature="e#7176#7518#0" expanded="false" />
+            <element signature="e#7564#7924#0" expanded="false" />
+            <element signature="e#7973#8312#0" expanded="false" />
+            <element signature="e#8361#8817#0" expanded="false" />
+            <element signature="e#8880#9184#0" expanded="false" />
+            <element signature="e#9251#9575#0" expanded="false" />
+            <element signature="e#9628#9863#0" expanded="false" />
+            <element signature="e#9925#10372#0" expanded="false" />
+            <element signature="e#10430#11051#0" expanded="false" />
+            <element signature="e#11107#11500#0" expanded="false" />
+            <element signature="e#11546#11744#0" expanded="false" />
+            <element signature="e#11793#11948#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/corpus_process/CorpusProcess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1717" max-vertical-offset="1836">
+          <caret line="199" column="40" selection-start-line="199" selection-start-column="40" selection-end-line="199" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#218#964#0" expanded="false" />
+            <element signature="e#1475#1994#0" expanded="false" />
+            <element signature="e#2068#2484#0" expanded="false" />
+            <element signature="e#3633#3765#0" expanded="false" />
+            <element signature="e#3815#4091#0" expanded="false" />
+            <element signature="e#4138#5053#0" expanded="false" />
+            <element signature="e#5090#5209#0" expanded="false" />
+            <element signature="e#6683#6809#0" expanded="false" />
+            <element signature="e#6846#6987#0" expanded="false" />
+            <element signature="e#7027#7601#0" expanded="false" />
+            <element signature="e#7652#8950#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="595" max-vertical-offset="986">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_process/structure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/corpus_process/CorpusProcess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="224" column="69" selection-start-line="224" selection-start-column="29" selection-end-line="224" selection-end-column="69" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#218#964#0" expanded="false" />
+            <element signature="e#1475#1994#0" expanded="false" />
+            <element signature="e#2068#2484#0" expanded="false" />
+            <element signature="e#3633#3765#0" expanded="false" />
+            <element signature="e#3815#4091#0" expanded="false" />
+            <element signature="e#4138#5053#0" expanded="false" />
+            <element signature="e#5090#5209#0" expanded="false" />
+            <element signature="e#6683#6809#0" expanded="false" />
+            <element signature="e#6846#6987#0" expanded="false" />
+            <element signature="e#7027#7601#0" expanded="false" />
+            <element signature="e#7652#8950#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_process/interaction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#95#0" expanded="true" />
+            <element signature="e#511#733#0" expanded="false" />
+            <element signature="e#795#1174#0" expanded="false" />
+            <element signature="e#1258#2026#0" expanded="false" />
+            <element signature="e#2077#2704#0" expanded="false" />
+            <element signature="e#4356#4670#0" expanded="false" />
+            <element signature="e#4708#5201#0" expanded="false" />
+            <element signature="e#5241#5864#0" expanded="false" />
+            <element signature="e#6338#6610#0" expanded="false" />
+            <element signature="e#6657#7130#0" expanded="false" />
+            <element signature="e#7176#7518#0" expanded="false" />
+            <element signature="e#7564#7924#0" expanded="false" />
+            <element signature="e#7973#8312#0" expanded="false" />
+            <element signature="e#8361#8817#0" expanded="false" />
+            <element signature="e#8880#9184#0" expanded="false" />
+            <element signature="e#9251#9575#0" expanded="false" />
+            <element signature="e#9628#9863#0" expanded="false" />
+            <element signature="e#9925#10372#0" expanded="false" />
+            <element signature="e#10430#11051#0" expanded="false" />
+            <element signature="e#11107#11500#0" expanded="false" />
+            <element signature="e#11546#11744#0" expanded="false" />
+            <element signature="e#11793#11948#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_process/structure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/corpus_process/DocumentProcess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/corpus_process/CorpusProcess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="95" column="65" selection-start-line="95" selection-start-column="65" selection-end-line="95" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#218#964#0" expanded="false" />
+            <element signature="e#1475#1994#0" expanded="false" />
+            <element signature="e#2068#2484#0" expanded="false" />
+            <element signature="e#3633#3765#0" expanded="false" />
+            <element signature="e#3815#4091#0" expanded="false" />
+            <element signature="e#4138#5053#0" expanded="false" />
+            <element signature="e#5090#5209#0" expanded="false" />
+            <element signature="e#6683#6809#0" expanded="false" />
+            <element signature="e#6846#6987#0" expanded="false" />
+            <element signature="e#7027#7601#0" expanded="false" />
+            <element signature="e#7652#8950#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_process/interaction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#95#0" expanded="true" />
+            <element signature="e#511#733#0" expanded="false" />
+            <element signature="e#795#1174#0" expanded="false" />
+            <element signature="e#1258#2026#0" expanded="false" />
+            <element signature="e#2077#2704#0" expanded="false" />
+            <element signature="e#4356#4670#0" expanded="false" />
+            <element signature="e#4708#5201#0" expanded="false" />
+            <element signature="e#5241#5864#0" expanded="false" />
+            <element signature="e#6338#6610#0" expanded="false" />
+            <element signature="e#6657#7130#0" expanded="false" />
+            <element signature="e#7176#7518#0" expanded="false" />
+            <element signature="e#7564#7924#0" expanded="false" />
+            <element signature="e#7973#8312#0" expanded="false" />
+            <element signature="e#8361#8817#0" expanded="false" />
+            <element signature="e#8880#9184#0" expanded="false" />
+            <element signature="e#9251#9575#0" expanded="false" />
+            <element signature="e#9628#9863#0" expanded="false" />
+            <element signature="e#9925#10372#0" expanded="false" />
+            <element signature="e#10430#11051#0" expanded="false" />
+            <element signature="e#11107#11500#0" expanded="false" />
+            <element signature="e#11546#11744#0" expanded="false" />
+            <element signature="e#11793#11948#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_process/structure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_process/interaction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#95#0" expanded="true" />
+            <element signature="e#511#733#0" expanded="false" />
+            <element signature="e#795#1174#0" expanded="false" />
+            <element signature="e#1258#2026#0" expanded="false" />
+            <element signature="e#2077#2704#0" expanded="false" />
+            <element signature="e#4356#4670#0" expanded="false" />
+            <element signature="e#4708#5201#0" expanded="false" />
+            <element signature="e#5241#5864#0" expanded="false" />
+            <element signature="e#6338#6610#0" expanded="false" />
+            <element signature="e#6657#7130#0" expanded="false" />
+            <element signature="e#7176#7518#0" expanded="false" />
+            <element signature="e#7564#7924#0" expanded="false" />
+            <element signature="e#7973#8312#0" expanded="false" />
+            <element signature="e#8361#8817#0" expanded="false" />
+            <element signature="e#8880#9184#0" expanded="false" />
+            <element signature="e#9251#9575#0" expanded="false" />
+            <element signature="e#9628#9863#0" expanded="false" />
+            <element signature="e#9925#10372#0" expanded="false" />
+            <element signature="e#10430#11051#0" expanded="false" />
+            <element signature="e#11107#11500#0" expanded="false" />
+            <element signature="e#11546#11744#0" expanded="false" />
+            <element signature="e#11793#11948#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_process/structure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_process/interaction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#95#0" expanded="true" />
+            <element signature="e#511#733#0" expanded="false" />
+            <element signature="e#795#1174#0" expanded="false" />
+            <element signature="e#1258#2026#0" expanded="false" />
+            <element signature="e#2077#2704#0" expanded="false" />
+            <element signature="e#4356#4670#0" expanded="false" />
+            <element signature="e#4708#5201#0" expanded="false" />
+            <element signature="e#5241#5864#0" expanded="false" />
+            <element signature="e#6338#6610#0" expanded="false" />
+            <element signature="e#6657#7130#0" expanded="false" />
+            <element signature="e#7176#7518#0" expanded="false" />
+            <element signature="e#7564#7924#0" expanded="false" />
+            <element signature="e#7973#8312#0" expanded="false" />
+            <element signature="e#8361#8817#0" expanded="false" />
+            <element signature="e#8880#9184#0" expanded="false" />
+            <element signature="e#9251#9575#0" expanded="false" />
+            <element signature="e#9628#9863#0" expanded="false" />
+            <element signature="e#9925#10372#0" expanded="false" />
+            <element signature="e#10430#11051#0" expanded="false" />
+            <element signature="e#11107#11500#0" expanded="false" />
+            <element signature="e#11546#11744#0" expanded="false" />
+            <element signature="e#11793#11948#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_process/structure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="42" column="22" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="26" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/corpus_process/CorpusProcess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="41" column="34" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#218#964#0" expanded="false" />
+            <element signature="e#1475#1994#0" expanded="false" />
+            <element signature="e#2068#2484#0" expanded="false" />
+            <element signature="e#3633#3765#0" expanded="false" />
+            <element signature="e#3815#4091#0" expanded="false" />
+            <element signature="e#4138#5053#0" expanded="false" />
+            <element signature="e#5090#5209#0" expanded="false" />
+            <element signature="e#6683#6809#0" expanded="false" />
+            <element signature="e#6846#6987#0" expanded="false" />
+            <element signature="e#7027#7601#0" expanded="false" />
+            <element signature="e#7652#8950#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/corpus_process/DocumentProcess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_process/interaction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#95#0" expanded="true" />
+            <element signature="e#511#733#0" expanded="false" />
+            <element signature="e#795#1174#0" expanded="false" />
+            <element signature="e#1258#2026#0" expanded="false" />
+            <element signature="e#2077#2704#0" expanded="false" />
+            <element signature="e#4356#4670#0" expanded="false" />
+            <element signature="e#4708#5201#0" expanded="false" />
+            <element signature="e#5241#5864#0" expanded="false" />
+            <element signature="e#6338#6610#0" expanded="false" />
+            <element signature="e#6657#7130#0" expanded="false" />
+            <element signature="e#7176#7518#0" expanded="false" />
+            <element signature="e#7564#7924#0" expanded="false" />
+            <element signature="e#7973#8312#0" expanded="false" />
+            <element signature="e#8361#8817#0" expanded="false" />
+            <element signature="e#8880#9184#0" expanded="false" />
+            <element signature="e#9251#9575#0" expanded="false" />
+            <element signature="e#9628#9863#0" expanded="false" />
+            <element signature="e#9925#10372#0" expanded="false" />
+            <element signature="e#10430#11051#0" expanded="false" />
+            <element signature="e#11107#11500#0" expanded="false" />
+            <element signature="e#11546#11744#0" expanded="false" />
+            <element signature="e#11793#11948#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_process/structure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/corpus_process/CorpusProcess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#218#964#0" expanded="false" />
+            <element signature="e#1475#1994#0" expanded="false" />
+            <element signature="e#2068#2484#0" expanded="false" />
+            <element signature="e#3633#3765#0" expanded="false" />
+            <element signature="e#3815#4091#0" expanded="false" />
+            <element signature="e#4138#5053#0" expanded="false" />
+            <element signature="e#5090#5209#0" expanded="false" />
+            <element signature="e#6683#6809#0" expanded="false" />
+            <element signature="e#6846#6987#0" expanded="false" />
+            <element signature="e#7027#7601#0" expanded="false" />
+            <element signature="e#7652#8950#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_process/interaction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#95#0" expanded="true" />
+            <element signature="e#511#733#0" expanded="false" />
+            <element signature="e#795#1174#0" expanded="false" />
+            <element signature="e#1258#2026#0" expanded="false" />
+            <element signature="e#2077#2704#0" expanded="false" />
+            <element signature="e#4356#4670#0" expanded="false" />
+            <element signature="e#4708#5201#0" expanded="false" />
+            <element signature="e#5241#5864#0" expanded="false" />
+            <element signature="e#6338#6610#0" expanded="false" />
+            <element signature="e#6657#7130#0" expanded="false" />
+            <element signature="e#7176#7518#0" expanded="false" />
+            <element signature="e#7564#7924#0" expanded="false" />
+            <element signature="e#7973#8312#0" expanded="false" />
+            <element signature="e#8361#8817#0" expanded="false" />
+            <element signature="e#8880#9184#0" expanded="false" />
+            <element signature="e#9251#9575#0" expanded="false" />
+            <element signature="e#9628#9863#0" expanded="false" />
+            <element signature="e#9925#10372#0" expanded="false" />
+            <element signature="e#10430#11051#0" expanded="false" />
+            <element signature="e#11107#11500#0" expanded="false" />
+            <element signature="e#11546#11744#0" expanded="false" />
+            <element signature="e#11793#11948#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_process/structure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_process/interaction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#95#0" expanded="true" />
+            <element signature="e#511#733#0" expanded="false" />
+            <element signature="e#795#1174#0" expanded="false" />
+            <element signature="e#1258#2026#0" expanded="false" />
+            <element signature="e#2077#2704#0" expanded="false" />
+            <element signature="e#4356#4670#0" expanded="false" />
+            <element signature="e#4708#5201#0" expanded="false" />
+            <element signature="e#5241#5864#0" expanded="false" />
+            <element signature="e#6338#6610#0" expanded="false" />
+            <element signature="e#6657#7130#0" expanded="false" />
+            <element signature="e#7176#7518#0" expanded="false" />
+            <element signature="e#7564#7924#0" expanded="false" />
+            <element signature="e#7973#8312#0" expanded="false" />
+            <element signature="e#8361#8817#0" expanded="false" />
+            <element signature="e#8880#9184#0" expanded="false" />
+            <element signature="e#9251#9575#0" expanded="false" />
+            <element signature="e#9628#9863#0" expanded="false" />
+            <element signature="e#9925#10372#0" expanded="false" />
+            <element signature="e#10430#11051#0" expanded="false" />
+            <element signature="e#11107#11500#0" expanded="false" />
+            <element signature="e#11546#11744#0" expanded="false" />
+            <element signature="e#11793#11948#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/corpus_process/CorpusProcess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#218#964#0" expanded="false" />
+            <element signature="e#1475#1994#0" expanded="false" />
+            <element signature="e#2068#2484#0" expanded="false" />
+            <element signature="e#3633#3765#0" expanded="false" />
+            <element signature="e#3815#4091#0" expanded="false" />
+            <element signature="e#4138#5053#0" expanded="false" />
+            <element signature="e#5090#5209#0" expanded="false" />
+            <element signature="e#6683#6809#0" expanded="false" />
+            <element signature="e#6846#6987#0" expanded="false" />
+            <element signature="e#7027#7601#0" expanded="false" />
+            <element signature="e#7652#8950#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_process/structure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_process/interaction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#95#0" expanded="true" />
+            <element signature="e#511#733#0" expanded="false" />
+            <element signature="e#795#1174#0" expanded="false" />
+            <element signature="e#1258#2026#0" expanded="false" />
+            <element signature="e#2077#2704#0" expanded="false" />
+            <element signature="e#4356#4670#0" expanded="false" />
+            <element signature="e#4708#5201#0" expanded="false" />
+            <element signature="e#5241#5864#0" expanded="false" />
+            <element signature="e#6338#6610#0" expanded="false" />
+            <element signature="e#6657#7130#0" expanded="false" />
+            <element signature="e#7176#7518#0" expanded="false" />
+            <element signature="e#7564#7924#0" expanded="false" />
+            <element signature="e#7973#8312#0" expanded="false" />
+            <element signature="e#8361#8817#0" expanded="false" />
+            <element signature="e#8880#9184#0" expanded="false" />
+            <element signature="e#9251#9575#0" expanded="false" />
+            <element signature="e#9628#9863#0" expanded="false" />
+            <element signature="e#9925#10372#0" expanded="false" />
+            <element signature="e#10430#11051#0" expanded="false" />
+            <element signature="e#11107#11500#0" expanded="false" />
+            <element signature="e#11546#11744#0" expanded="false" />
+            <element signature="e#11793#11948#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_process/structure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_process/interaction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#95#0" expanded="true" />
+            <element signature="e#511#733#0" expanded="false" />
+            <element signature="e#795#1174#0" expanded="false" />
+            <element signature="e#1258#2026#0" expanded="false" />
+            <element signature="e#2077#2704#0" expanded="false" />
+            <element signature="e#4356#4670#0" expanded="false" />
+            <element signature="e#4708#5201#0" expanded="false" />
+            <element signature="e#5241#5864#0" expanded="false" />
+            <element signature="e#6338#6610#0" expanded="false" />
+            <element signature="e#6657#7130#0" expanded="false" />
+            <element signature="e#7176#7518#0" expanded="false" />
+            <element signature="e#7564#7924#0" expanded="false" />
+            <element signature="e#7973#8312#0" expanded="false" />
+            <element signature="e#8361#8817#0" expanded="false" />
+            <element signature="e#8880#9184#0" expanded="false" />
+            <element signature="e#9251#9575#0" expanded="false" />
+            <element signature="e#9628#9863#0" expanded="false" />
+            <element signature="e#9925#10372#0" expanded="false" />
+            <element signature="e#10430#11051#0" expanded="false" />
+            <element signature="e#11107#11500#0" expanded="false" />
+            <element signature="e#11546#11744#0" expanded="false" />
+            <element signature="e#11793#11948#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/corpus_process/CorpusProcess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#218#964#0" expanded="false" />
+            <element signature="e#1475#1994#0" expanded="false" />
+            <element signature="e#2068#2484#0" expanded="false" />
+            <element signature="e#3633#3765#0" expanded="false" />
+            <element signature="e#3815#4091#0" expanded="false" />
+            <element signature="e#4138#5053#0" expanded="false" />
+            <element signature="e#5090#5209#0" expanded="false" />
+            <element signature="e#6683#6809#0" expanded="false" />
+            <element signature="e#6846#6987#0" expanded="false" />
+            <element signature="e#7027#7601#0" expanded="false" />
+            <element signature="e#7652#8950#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_process/structure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/corpus_process/CorpusProcess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#218#964#0" expanded="false" />
+            <element signature="e#1475#1994#0" expanded="false" />
+            <element signature="e#2068#2484#0" expanded="false" />
+            <element signature="e#3633#3765#0" expanded="false" />
+            <element signature="e#3815#4091#0" expanded="false" />
+            <element signature="e#4138#5053#0" expanded="false" />
+            <element signature="e#5090#5209#0" expanded="false" />
+            <element signature="e#6683#6809#0" expanded="false" />
+            <element signature="e#6846#6987#0" expanded="false" />
+            <element signature="e#7027#7601#0" expanded="false" />
+            <element signature="e#7652#8950#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/corpus_process/DocumentProcess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_process/structure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_process/structure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/corpus_process/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_process/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/corpus_process/DocumentProcess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8287796" vertical-offset="0" max-vertical-offset="0">
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/corpus_process/CorpusProcess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="199" column="40" selection-start-line="199" selection-start-column="40" selection-end-line="199" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#218#964#0" expanded="false" />
+            <element signature="e#1475#1994#0" expanded="false" />
+            <element signature="e#2068#2484#0" expanded="false" />
+            <element signature="e#3633#3765#0" expanded="false" />
+            <element signature="e#3815#4091#0" expanded="false" />
+            <element signature="e#4138#5053#0" expanded="false" />
+            <element signature="e#5090#5209#0" expanded="false" />
+            <element signature="e#6683#6809#0" expanded="false" />
+            <element signature="e#6846#6987#0" expanded="false" />
+            <element signature="e#7027#7601#0" expanded="false" />
+            <element signature="e#7652#8950#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_process/interaction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="171" column="0" selection-start-line="171" selection-start-column="0" selection-end-line="171" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#95#0" expanded="true" />
+            <element signature="e#511#733#0" expanded="false" />
+            <element signature="e#795#1174#0" expanded="false" />
+            <element signature="e#1258#2026#0" expanded="false" />
+            <element signature="e#2077#2704#0" expanded="false" />
+            <element signature="e#4356#4670#0" expanded="false" />
+            <element signature="e#4708#5201#0" expanded="false" />
+            <element signature="e#5241#5864#0" expanded="false" />
+            <element signature="e#6338#6610#0" expanded="false" />
+            <element signature="e#6657#7130#0" expanded="false" />
+            <element signature="e#7176#7518#0" expanded="false" />
+            <element signature="e#7564#7924#0" expanded="false" />
+            <element signature="e#7973#8312#0" expanded="false" />
+            <element signature="e#8361#8817#0" expanded="false" />
+            <element signature="e#8880#9184#0" expanded="false" />
+            <element signature="e#9251#9575#0" expanded="false" />
+            <element signature="e#9628#9863#0" expanded="false" />
+            <element signature="e#9925#10372#0" expanded="false" />
+            <element signature="e#10430#11051#0" expanded="false" />
+            <element signature="e#11107#11500#0" expanded="false" />
+            <element signature="e#11546#11744#0" expanded="false" />
+            <element signature="e#11793#11948#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_process/structure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31153184" vertical-offset="414" max-vertical-offset="1020">
+          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
